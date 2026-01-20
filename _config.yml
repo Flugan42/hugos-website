@@ -1,0 +1,13 @@
+title: Hugo's Blog
+description: Writings and notes
+url: "" # Set to https://yourusername.github.io when deploying
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: null  # We'll use MathJax instead
+  footnote_nr: 1
+
+# Build settings
+permalink: /:title/
