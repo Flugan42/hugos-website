@@ -1,6 +1,7 @@
-title: Hugo's Blog
+title: Hugo's Website
 description: Writings and notes
 url: "" # Set to https://yourusername.github.io when deploying
+baseurl: "/hugos-website" # Remove this line if using a custom domain
 
 # Markdown processing
 markdown: kramdown
