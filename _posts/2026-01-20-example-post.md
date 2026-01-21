@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example Post with Math and Footnotes
+published: false
 ---
 
 This is a sample post showing how math and footnotes render.
